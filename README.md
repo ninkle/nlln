@@ -1,7 +1,7 @@
 # nlln
 
 Have Tensorflow installed  
-May possible have to run `pip install QtPy5`  
+May possible have to run `pip install PyQt5`  
 
 Once the plot is launched:  
 - Zoom option 1: Click and drag a rectangle over the plot to zoom and recompute plot with the input values selected. 
