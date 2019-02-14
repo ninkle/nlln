@@ -4,6 +4,4 @@ Have Tensorflow installed
 May possibly have to run `pip install PyQt5`  
 
 Once the plot is launched:  
-- Zoom option 1: Click and drag a rectangle over the plot to zoom and recompute plot with the input values selected. 
-- Zoom option 2: Click the little magnifying glass in the window, then click and drag a rectangle over the plot to zoom without recomputing the plot.  
-- Pan: Click the little arrows icon in the window to move around the plot.  
+  - click and drag a rectangle shape which will be invisible (srry) and zoom to your heart's delight
